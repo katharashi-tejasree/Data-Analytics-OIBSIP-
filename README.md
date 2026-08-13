@@ -1,4 +1,4 @@
-# Customer Segmentation Analysis using K-Means Clustering
+# Task 2 Customer Segmentation Analysis using K-Means Clustering
 
 ## Project Overview
 
